@@ -1,0 +1,35 @@
+Specialization chosen : Programming Language Proficiency
+Name : Anju
+USN : 1BM19Is024
+4 Subjects chosen and marks obtained in them : C++ : 90/100 , Java : 89/100 , Python : 89/100 , R : 90/100 , 
+Project : 90/100
+CGPA : 9.61905
+
+
+Specialization chosen : Cyber Security
+Name : Aishu
+USN : 1BM19Is026
+4 Subjects chosen and marks obtained in them : IntroductionToCyberLaws : 78/100 , EthicalHacking : 87/100 , DigitalForencics : 77/100 , WebSecurity : 90/100 , 
+Project : 87/100
+CGPA : 8.89474
+
+
+Specialization chosen : Web Application Development
+Name : Anjana
+USN : 1BM19Is087
+4 Subjects chosen and marks obtained in them : Html : 90/100 , CSS : 78/100 , Javascript : 70/100 , PHP : 88/100 , 
+Project : 90/100
+CGPA : 9.04762
+
+
+
+
+
+Specialization chosen : Web Application Development
+Name : Bhargav
+USN : 1Bm19Is076
+4 Subjects chosen and marks obtained in them : Html : 78/100 , CSS : 89/100 , Javascript : 90/100 , PHP : 90/100 , 
+Project : 90/100
+CGPA : 9.42857
+
+
